@@ -7,9 +7,9 @@
 
 <h2> Assignments</h2>
 
-<p2> Homework1 - a quick analysis of a small dataset. Uses "YouthRisk2009.csv" dataset </p2>
+<p2> [Homework1](https://github.com/TylerOMarsh/Scripting-data-analysis/blob/master/HW1) - a quick analysis of a small dataset. Uses "YouthRisk2009.csv" dataset </p2>
 
-<p2> Homework2 - fetches data from public API, stores into MongoDB, and run an analysis one the data </p2>
+<p2> [Homework2](https://github.com/TylerOMarsh/Scripting-data-analysis/blob/master/HW2.py) - fetches data from public API, stores into MongoDB, and run an analysis one the data </p2>
 
 <p2>[Project Scraping](https://github.com/TylerOMarsh/Scripting-data-analysis/blob/master/Project%20Scraping) - scrapes weather data from wunderground for the years 2017- August 2019. </p2>
 
