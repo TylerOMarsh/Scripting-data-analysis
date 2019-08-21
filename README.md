@@ -11,6 +11,6 @@
 
 <p2> Homework2 - fetches data from public API, stores into MongoDB, and run an analysis one the data </p2>
 
-<p2> Project Scraping - scrapes weather data from wunderground for the years 2017- August 2019. </p2>
+<p2> Project Scraping [Project Scraping](../blob/master/Project Scraping) - scrapes weather data from wunderground for the years 2017- August 2019. </p2>
 
 <p2> Project - analyzes traffic collisions from LA </p2>
