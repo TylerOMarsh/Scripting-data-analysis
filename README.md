@@ -7,7 +7,7 @@
 
 <h2> Assignments</h2>
 
-<p2> Homework1 - a quick analysis of a small dataset </p2>
+<p2> Homework1 - a quick analysis of a small dataset. Uses "YouthRisk2009.csv" dataset </p2>
 
 <p2> Homework2 - fetches data from public API, stores into MongoDB, and run an analysis one the data </p2>
 
