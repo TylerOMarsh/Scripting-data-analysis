@@ -18,3 +18,5 @@
 <p2> 2017/2018 weather.csv scraped weather data integrated into the project</p2>
 
 <p2> Income csv is a file of income by area in LA that was integrated into the data </p2>
+
+<p2> traffic-collision-data-from-2010-to-present.7z approximate data set used. Dataset is updated on kaggle </p2>
