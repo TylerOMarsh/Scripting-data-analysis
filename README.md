@@ -14,3 +14,5 @@
 <p2>[Project Scraping](https://github.com/TylerOMarsh/Scripting-data-analysis/blob/master/Project%20Scraping.py) - scrapes weather data from wunderground for the years 2017- August 2019. </p2>
 
 <p2> Project - analyzes traffic collisions from LA </p2>
+
+<p2> 2017/2018 weather.csv </p2>
